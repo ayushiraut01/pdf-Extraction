@@ -49,3 +49,4 @@ If you encounter any issues or would like to request new features, please open a
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+![image](https://github.com/user-attachments/assets/bd037d05-828a-4cdc-89e0-c3c99600fc42)
